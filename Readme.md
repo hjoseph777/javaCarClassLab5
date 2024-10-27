@@ -25,4 +25,4 @@ The `CarClass` contains the `main` method, which serves as the entry point for t
 - **Displaying State**: `CarClass.java` retrieves and displays the state of the `Car` instances using getter methods.
 
 ## Author: [Harry Joseph](https://github.com/hjoseph777)
-## Date: 2024-10-251
+## Date: 2024-10-26
